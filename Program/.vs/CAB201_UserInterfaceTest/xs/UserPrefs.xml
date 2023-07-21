@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7A23C1A1-01DA-4296-AE2D-B1BC2680877E}|Default">
+  <MonoDevelop.Ide.ItemProperties.CAB201__UserInterfaceTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestUserInterface.cs">
+    <Files>
+      <File FileName="TestUserInterface.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CAB201_UserInterfaceTest" expanded="True">
+            <Node name="CAB201_UserInterfaceTest" expanded="True">
+              <Node name="TestUserInterface.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

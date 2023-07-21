@@ -1,0 +1,112 @@
+G:/Downloads/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.exe
+G:/Downloads/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.deps.json
+G:/Downloads/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.runtimeconfig.json
+G:/Downloads/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.runtimeconfig.dev.json
+G:/Downloads/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.dll
+G:/Downloads/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.pdb
+G:/Downloads/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.csproj.AssemblyReference.cache
+G:/Downloads/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+G:/Downloads/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.AssemblyInfoInputs.cache
+G:/Downloads/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.AssemblyInfo.cs
+G:/Downloads/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.csproj.CoreCompileInputs.cache
+G:/Downloads/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.dll
+G:/Downloads/test/obj/Debug/net5.0/refint/CAB201_UserInterfaceTest.dll
+G:/Downloads/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.pdb
+G:/Downloads/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.genruntimeconfig.cache
+G:/Downloads/test/obj/Debug/net5.0/ref/CAB201_UserInterfaceTest.dll
+/Users/rileypederson/Desktop/test/bin/Debug/net5.0/CAB201_UserInterfaceTest
+/Users/rileypederson/Desktop/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.deps.json
+/Users/rileypederson/Desktop/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.runtimeconfig.json
+/Users/rileypederson/Desktop/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.runtimeconfig.dev.json
+/Users/rileypederson/Desktop/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.dll
+/Users/rileypederson/Desktop/test/bin/Debug/net5.0/CAB201_UserInterfaceTest.pdb
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.csproj.AssemblyReference.cache
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.AssemblyInfoInputs.cache
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.AssemblyInfo.cs
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.csproj.CoreCompileInputs.cache
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.dll
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/refint/CAB201_UserInterfaceTest.dll
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.pdb
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/CAB201_UserInterfaceTest.genruntimeconfig.cache
+/Users/rileypederson/Desktop/test/obj/Debug/net5.0/ref/CAB201_UserInterfaceTest.dll
+G:\Desktop\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.AssemblyReference.cache
+G:\Desktop\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfoInputs.cache
+G:\Desktop\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfo.cs
+G:\Desktop\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.CoreCompileInputs.cache
+G:\Desktop\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Desktop\Test2\obj\Debug\net5.0\refint\CAB201_UserInterfaceTest.dll
+G:\Desktop\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Desktop\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.exe
+G:\Desktop\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.deps.json
+G:\Desktop\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.json
+G:\Desktop\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.dev.json
+G:\Desktop\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Desktop\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Desktop\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.genruntimeconfig.cache
+G:\Desktop\Test2\obj\Debug\net5.0\ref\CAB201_UserInterfaceTest.dll
+G:\Downloads\CAB201 - N10869069\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.exe
+G:\Downloads\CAB201 - N10869069\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.deps.json
+G:\Downloads\CAB201 - N10869069\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.json
+G:\Downloads\CAB201 - N10869069\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.dev.json
+G:\Downloads\CAB201 - N10869069\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Downloads\CAB201 - N10869069\Test2\bin\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.AssemblyReference.cache
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfoInputs.cache
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfo.cs
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.CoreCompileInputs.cache
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\refint\CAB201_UserInterfaceTest.dll
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\CAB201_UserInterfaceTest.genruntimeconfig.cache
+G:\Downloads\CAB201 - N10869069\Test2\obj\Debug\net5.0\ref\CAB201_UserInterfaceTest.dll
+G:\Downloads\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.exe
+G:\Downloads\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.deps.json
+G:\Downloads\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.json
+G:\Downloads\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.dev.json
+G:\Downloads\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Downloads\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Downloads\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.AssemblyReference.cache
+G:\Downloads\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Downloads\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfoInputs.cache
+G:\Downloads\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfo.cs
+G:\Downloads\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.CoreCompileInputs.cache
+G:\Downloads\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Downloads\Program\obj\Debug\net5.0\refint\CAB201_UserInterfaceTest.dll
+G:\Downloads\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Downloads\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.genruntimeconfig.cache
+G:\Downloads\Program\obj\Debug\net5.0\ref\CAB201_UserInterfaceTest.dll
+G:\Downloads\CAB201 - N10869069\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.exe
+G:\Downloads\CAB201 - N10869069\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.deps.json
+G:\Downloads\CAB201 - N10869069\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.json
+G:\Downloads\CAB201 - N10869069\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.dev.json
+G:\Downloads\CAB201 - N10869069\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Downloads\CAB201 - N10869069\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.AssemblyReference.cache
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfoInputs.cache
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfo.cs
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.CoreCompileInputs.cache
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\refint\CAB201_UserInterfaceTest.dll
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.genruntimeconfig.cache
+G:\Downloads\CAB201 - N10869069\Program\obj\Debug\net5.0\ref\CAB201_UserInterfaceTest.dll
+G:\Desktop\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.exe
+G:\Desktop\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.deps.json
+G:\Desktop\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.json
+G:\Desktop\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.runtimeconfig.dev.json
+G:\Desktop\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Desktop\Program\bin\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Desktop\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.AssemblyReference.cache
+G:\Desktop\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfoInputs.cache
+G:\Desktop\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.AssemblyInfo.cs
+G:\Desktop\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.csproj.CoreCompileInputs.cache
+G:\Desktop\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.dll
+G:\Desktop\Program\obj\Debug\net5.0\refint\CAB201_UserInterfaceTest.dll
+G:\Desktop\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.pdb
+G:\Desktop\Program\obj\Debug\net5.0\CAB201_UserInterfaceTest.genruntimeconfig.cache
+G:\Desktop\Program\obj\Debug\net5.0\ref\CAB201_UserInterfaceTest.dll
